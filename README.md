@@ -89,3 +89,4 @@ http://localhost:3000
 - Open the **Reports** tab to view summary charts and export a Word-compatible `.doc` report.
 
 Events are stored in the browser session only. Refreshing the page resets the example data because this is a local static project without a database.
+"# business-club-planner3" 
